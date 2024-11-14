@@ -1,0 +1,38 @@
+/* Home.css */
+.block {
+    position: absolute;
+    top: 0;
+    height: 100px;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  .block1 {
+    background-color: #d55757;
+    top: 0;
+  }
+  
+  .block2 {
+    background-color: #EAEAEA;
+    top: 100px;
+    height: 60px;
+  }
+  
+  /* Ensure text appears behind blocks */
+  h1, h2 {
+    position: relative;
+    z-index: 0;
+    margin: 0;
+    padding: 0;
+    color: rgb(50, 51, 58);
+  }
+
+  
+
+  
+
+
+
+ 
+  
+  

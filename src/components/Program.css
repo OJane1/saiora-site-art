@@ -1,0 +1,15 @@
+.list-group {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    padding: 7rem;
+}
+
+.list-item {
+    display: flex;
+}
+
